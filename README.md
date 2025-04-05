@@ -1,1 +1,3 @@
-# useful-cli
+```
+sudo apt install make
+```

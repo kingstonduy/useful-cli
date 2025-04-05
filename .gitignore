@@ -1,0 +1,6 @@
+*.go
+*.java
+*.js
+main.*
+main
+Main.*
